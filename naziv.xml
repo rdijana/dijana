@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <rss version="2.0">
+    <channel>
+	   <item>
+	     <title>Novogodišnji praznici</title>
+		 <link>http://sajtovistudenata.ict.edu.rs/10_18/index.html</link>
+		 <description>Zbog predstojećih praznika stomatološka ordinacija Deny neće raditi od
+		 31.12.2018 do 08.01.2019.</description>
+	   </item>
+	   
+	   <item>
+	     <title>Popusti</title>
+		 <link>http://sajtovistudenata.ict.edu.rs/10_18/usluge.html</link>
+		 <description>U sredu 19.12.2018 stomatološka ordinacija Deny umanjuje za 10% cene svih usluga.</description>
+	   </item>
+	   
+	   <item>
+	     <title>Nove usluge</title>
+		 <link>http://sajtovistudenata.ict.edu.rs/10_18/usluge.html</link>
+		 <description>Od 28.12.2018 u našoj ordinaciji počećemo sa primenom implantoprotetiku.</description>
+	   </item>
+	</channel>
+	</rss>
